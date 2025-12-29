@@ -1,23 +1,25 @@
 [![MasterHead](https://static.wixstatic.com/media/809ab6_83a1f7749ff041608a3443cf551658ac~mv2.gif)](https://github.com/KhanhVan2212)
 <h1 align="center">Hi 👋, I'm Van</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate Fresher Fullstack Developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> 
+  <a href="https://kvan8686-portfolio.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-ff0050?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://twitter.com/Keito221202" target="blank">
     <img src="https://img.shields.io/twitter/follow/Keito221202?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a> 
 </p>
 
+- 🔭 I’m currently building **DePIN architectures & Scalable Systems.**
 
-- 🌱 I’m currently learning **FPT Polytechnic**
+- 🤝 I’m looking for partners to **disrupt the Decentralized AI space.**
 
-- 👯 I’m looking to collaborate on **Github**
+- 🧠 Ask me how I **optimized a network serving 2.9M+ active devices.**
 
-- 💬 Ask me about **Javascript, React, TypeScript, Nodejs, Express**
+- 📫 Reach me at **nguyenkhanhvan221202@gmail.com**
 
-- 📫 How to reach me **nguyenkhanhvan221202@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact: **I don't just code, I ship. Delivered a full Tour Booking Platform in a 1-week sprint! 🚀**
 
 <h3 align="left">Information:</h3>
 <p align="left">
