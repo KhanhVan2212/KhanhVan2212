@@ -21,8 +21,7 @@
 
 - ⚡ Fun fact: **I don't just code, I ship. Delivered a full Tour Booking Platform in a 1-week sprint! 🚀**
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
-
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="visibility: visible; max-width: 100%;">
 
 <h3 align="left">Information:</h3>
 <p align="left">
